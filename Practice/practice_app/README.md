@@ -1,16 +1,28 @@
-# practice_app
+🍔 Food Delivery App - Flutter
 
-A new Flutter project.
+A cross-platform mobile application built using **Flutter** for a seamless and responsive food delivery experience. This project was developed during my Flutter internship at **Crisfood**, focusing on UI design, navigation, and usability.
 
-## Getting Started
+Features
 
-This project is a starting point for a Flutter application.
+-  Clean and responsive UI for all screen sizes
+-  Secure Login Page with input validation
+-  Menu Page with food item listings
+-  Add to Cart and Order Summary
+-  Smooth navigation between pages
+-  Simple animations and transitions
+-  Easily customizable components
 
-A few resources to get you started if this is your first Flutter project:
+ Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK (Latest version)
+- Android Studio or Visual Studio Code
+- Dart SDK
+- Emulator or physical device
+
+Output:-
+![app](https://github.com/user-attachments/assets/a277fefd-60c6-42cc-905d-25fd64159c37)
+
+
+  
